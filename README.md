@@ -1,3 +1,3 @@
-# Convert text to Morse Code!
+# Convert text to Morse Code.
 
 That's it.
